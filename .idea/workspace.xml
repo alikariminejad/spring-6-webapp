@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e7be292-6875-4a36-a4fa-3048f7c926c7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alikariminejad&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:alikariminejad/spring-6-webapp.git&quot;,
+    &quot;accountId&quot;: &quot;ac22a318-0a51-47c4-856a-a81d73e468ad&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32O31qG4BwSXSYJx6FvqFNxdKem" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven.spring-6-webapp [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-6-webapp [verify].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Spring6WebappApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/projects/spring-6-webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="guru.springframework.spring6webapp.services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Spring6WebappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-6-webapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.spring6webapp.Spring6WebappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.28293.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.28293.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7be292-6875-4a36-a4fa-3048f7c926c7" name="Changes" comment="" />
+      <created>1757277579279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757277579279</updated>
+      <workItem from="1757277580349" duration="710000" />
+      <workItem from="1757337943192" duration="6509000" />
+      <workItem from="1757418697507" duration="196000" />
+      <workItem from="1757419786278" duration="8572000" />
+      <workItem from="1757783361009" duration="7419000" />
+      <workItem from="1757793334370" duration="1162000" />
+      <workItem from="1758197703040" duration="2180000" />
+    </task>
+    <task id="LOCAL-00001" summary="starting point">
+      <option name="closed" value="true" />
+      <created>1757278264753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757278264753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Using JPA Entities for Database Persistence">
+      <option name="closed" value="true" />
+      <created>1757341248046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757341248046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JPA Relationships - Relationships Between Tables">
+      <option name="closed" value="true" />
+      <created>1757343139476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757343139476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Equality in Hibernate">
+      <option name="closed" value="true" />
+      <created>1757345065629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757345065629</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Using Spring Data Repositories">
+      <option name="closed" value="true" />
+      <created>1757345625533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757345625533</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initializing data with spring boot">
+      <option name="closed" value="true" />
+      <created>1757424550414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757424550414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Publisher Entity and repository">
+      <option name="closed" value="true" />
+      <created>1757429812920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757429812920</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Configuring Publisher Relationships">
+      <option name="closed" value="true" />
+      <created>1757784102917</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757784102917</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Intro to h2 database">
+      <option name="closed" value="true" />
+      <created>1757784889512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757784889512</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created a simple service layer">
+      <option name="closed" value="true" />
+      <created>1757785848335</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757785848335</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Configured a spring controller">
+      <option name="closed" value="true" />
+      <created>1757787267439</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757787267439</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Using Thymeleaf Templates to Generate Dynamic HTML">
+      <option name="closed" value="true" />
+      <created>1757788575065</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757788575065</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Created a service, controller and a template for showing authors">
+      <option name="closed" value="true" />
+      <created>1757794266700</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757794266700</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting point" />
+    <MESSAGE value="Using JPA Entities for Database Persistence" />
+    <MESSAGE value="JPA Relationships - Relationships Between Tables" />
+    <MESSAGE value="Equality in Hibernate" />
+    <MESSAGE value="Using Spring Data Repositories" />
+    <MESSAGE value="Initializing data with spring boot" />
+    <MESSAGE value="Added Publisher Entity and repository" />
+    <MESSAGE value="Configuring Publisher Relationships" />
+    <MESSAGE value="Intro to h2 database" />
+    <MESSAGE value="Created a simple service layer" />
+    <MESSAGE value="Configured a spring controller" />
+    <MESSAGE value="Using Thymeleaf Templates to Generate Dynamic HTML" />
+    <MESSAGE value="Created a service, controller and a template for showing authors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a service, controller and a template for showing authors" />
+  </component>
+</project>
